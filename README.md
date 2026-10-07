@@ -1,4 +1,4 @@
-# CrewAI Workshop: Interview Preparation Crew
+# CrewAI: Interview Preparation Crew
 
 Build a team of AI agents that helps you prepare for a job interview. This hands-on Python notebook combines company research, optional interviewer research, tailored interview questions, and an interactive mock interview using **CrewAI**.
 
